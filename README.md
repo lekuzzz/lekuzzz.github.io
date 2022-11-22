@@ -1,2 +1,2 @@
-# vb.github.io
+# lekuzzz.github.io
 хост для лабы в универе
